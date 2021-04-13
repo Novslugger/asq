@@ -1,2 +1,2 @@
 # asq
-attendance monitoring
+attendance monitoring with QR Code
